@@ -1,0 +1,3 @@
+rootProject.name='MyProjectPPB'
+include ':app'
+include ':lifecycleapp'
